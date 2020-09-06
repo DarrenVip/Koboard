@@ -1,0 +1,22 @@
+{
+  "name": "OKBoard",
+  "keywords": "HID, esp32",
+  "description": "Generate HID Bluetooth devices with ESP32 and Arduino framework.",
+  "homepage": "https://github.com/DarrenVip/OKBoard",
+  "license": "MIT",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/DarrenVip/OKBoard.git"
+  },
+  "authors":
+  {
+      "name": "Darren.x",
+      "email": "295466228@qq.com",
+      "url": "http://www.combatrobot.org",
+      "maintainer": true
+  },
+  "version": "1.0.3",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
