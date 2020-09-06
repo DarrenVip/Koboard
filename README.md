@@ -15,13 +15,9 @@ void setup() {
 }
 ```
 
-#More information in [source code documentation](https://combatrobot.com/koboard/gamepad/blob/master/src/gamepad.h#L73).
 
 #Example: [01-Simple](examples/01-GamePad/01-GamePad.ino)
 
-## PlatformIO
-
-This library is also available at the [PlatformIO](https://platformio.org) as [Koboard](https://platformio.org/lib/show/1739/Koboard).
 
 ## Arduino IDE
 
