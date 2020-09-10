@@ -1,4 +1,4 @@
-# GamePad [![Build Status](https://combatrobot.org/koboard/gamepad.svg?branch=master)](https://combatrobot.com/koboard/gamepad)
+# GamePad [![Build Status](https://combatrobot.org/koboard/gamepad.svg?branch=master)](https://combatrobot.org/koboard/gamepad)
 
 Generate HID Bluetooth devices with ESP32 and Arduino framework.
 
